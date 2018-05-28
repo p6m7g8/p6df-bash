@@ -12,5 +12,3 @@ p6df::modules::bash::external::brew() {
 p6df::modules::bash::init() {
 
 }
-
-p6df::modules::bash::init
