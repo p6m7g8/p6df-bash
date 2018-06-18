@@ -9,6 +9,11 @@ p6df::modules::bash::external::brew() {
   brew install bash
 }
 
+p6df::modules::bash::home::symlink() {
+
+  # XXX: TDB
+} 
+
 p6df::modules::bash::init() {
 
 }
