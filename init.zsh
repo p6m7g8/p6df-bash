@@ -12,6 +12,7 @@ p6df::modules::bash::external::brew() {
 p6df::modules::bash::home::symlink() {
 
   # XXX: TDB
+  true;
 } 
 
 p6df::modules::bash::init() {
