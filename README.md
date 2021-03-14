@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6df-bash:
+
+#### p6df-bash/init.zsh:
 
 - p6df::modules::bash::deps()
 - p6df::modules::bash::external::brew()
